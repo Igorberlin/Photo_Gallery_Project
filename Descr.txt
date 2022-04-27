@@ -1,0 +1,6 @@
+Bootstrap
+Bootstrap Icons
+React, React-dom
+React-router-dom v5.3
+React Hooks (useState, useContext)
+React context
